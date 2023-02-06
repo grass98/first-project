@@ -59,7 +59,7 @@ class InputEvents extends Component {
     return (      
       <>
         <section>
-          <h3>Mouse events:</h3>
+          <h3>Mouse events Hahaha:</h3>
           <button
             onClick={this.handleOnClick}
             onMouseDown={this.handleOnMouseDown}
